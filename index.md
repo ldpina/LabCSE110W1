@@ -29,7 +29,7 @@ def even (n):
         return "odd"
 ```
 
-Now for a commerical break. This site was brought to you by, [GitHub Pages](https://page.github.com/)/. Now back to your regularly scheduled program.
+Now for a commerical break. This site was brought to you by, [GitHub Pages](https://page.github.com/). Now back to your regularly scheduled program.
 
 ### The usage of relative links
 To learn about my favorite coding language for coding interviews check my [README.md](LABCSE110W1/README.md) :D
@@ -41,8 +41,8 @@ To prepare for these interviews you want to learn the following:
 4. Remeber it is okay not to solve the coding challenge in the allotted time! Interviewers mainly wanna see your thought process!
 
 Now you can check off a task off your todolist for the today! Didn't make one? Here is one I made for you :D
+
 [x] Recieve unsolicited coding interview advice 
 [ ] Call your parents
 [x] Clean your living space (assuming you cleaned alredy)
-[ ] Cook
 [ ] Listen to Jcole's new album
