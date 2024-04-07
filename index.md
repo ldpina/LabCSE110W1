@@ -29,10 +29,10 @@ def even (n):
         return "odd"
 ```
 
-Now for a commerical break. This site was brought to you by, [GitHub Pages](https://page.github.com/). Now back to your regularly scheduled program.
+Now for a commerical break. This site was brought to you by, [GitHub Pages](https://pages.github.com/). Now back to your regularly scheduled program.
 
 ### The usage of relative links
-To learn about my favorite coding language for coding interviews check my [README.md](LABCSE110W1/README.md) :D
+To learn about my favorite coding language for coding interviews check my [README.md](README.md) :D
 
 To prepare for these interviews you want to learn the following:
 1. Find a coding language you are most comfortable with!
